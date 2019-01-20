@@ -1,0 +1,20 @@
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  border-color: blue;
+  border-width: 1in;
+  border-style: dashed;
+}
+
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: #efefef;
+}
+
+/*# sourceMappingURL=base.css.map */

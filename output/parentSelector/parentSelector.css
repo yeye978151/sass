@@ -1,0 +1,17 @@
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+body.firefox a {
+  font-weight: normal;
+}
+
+/* This comment is
+ * * several lines long.
+ * * since it uses the CSS comment syntax,
+ * * it will appear in the CSS output. */
+
+/*# sourceMappingURL=parentSelector.css.map */

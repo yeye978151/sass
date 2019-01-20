@@ -1,0 +1,8 @@
+#sidebar {
+    $sidebar-width: 300px;
+        width: $sidebar-width;
+    @include smartphone {
+      width: $sidebar-width / 3;
+    }
+  }
+  
